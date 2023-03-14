@@ -21,7 +21,6 @@ public class FabricaCarros {
         custoConsumidor = custoFabrica + Distribuidor + ValorImpostos;
  
         System.out.println("O custo final do carro é: " + custoConsumidor);
-
     }
 }
 
